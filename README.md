@@ -1,5 +1,5 @@
 
-Cross intersection utility is useful for interesting different datasets and know their level of similarity or discrepancy. Out of the results, multiple things can be done:
+Cross intersection utility is useful for intersecting any dataset and know the level of similarity or discrepancy. Out of the results, multiple things can be done:
 
 - Export to UpSet R tool
 - Filter our unique elements or particular interesting elements share by some datasets
