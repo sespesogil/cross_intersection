@@ -1,8 +1,8 @@
 
-Cross intersection utility is useful for intersecting any dataset and know the level of similarity or discrepancy. Out of the results, multiple things can be done:
+Cross intersection utility is useful for intersecting any dataset and know the level of similarity or discrepancy. Resulting output can be used to: 
 
-- Export to [UpSetR tool](https://github.com/hms-dbmi/UpSetR)
-- Filter our unique elements or particular interesting elements share by some datasets
+- Be exported it to [UpSetR tool](https://github.com/hms-dbmi/UpSetR)
+- Filter unique elements or particular interesting elements shared between any datasets
 
 # Required dependencies
 
